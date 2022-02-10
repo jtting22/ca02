@@ -14,3 +14,11 @@ TRAIN_DIR = '/content/drive/My Drive/Data Files/train-mails'
 
 TEST_DIR = '/content/drive/My Drive/Data Files/test-mails'
 
+
+**Usage** 
+
+This repository uses a Machine Learning program to detect spam utilizing Naive Bayes.
+
+**Contributing**
+
+ANy revfisions and updates are welcomed and remember to use updated python commands when necessary

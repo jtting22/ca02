@@ -1,5 +1,10 @@
 # CA 02 for BSAN 6070
 
+**Usage** 
+
+This repository uses a Machine Learning program to detect spam utilizing Naive Bayes.
+
+
 **Installation**
 
 Prior to running the code you must mount the drive using the following function:
@@ -14,10 +19,6 @@ TRAIN_DIR = '/content/drive/My Drive/Data Files/train-mails'
 
 TEST_DIR = '/content/drive/My Drive/Data Files/test-mails'
 
-
-**Usage** 
-
-This repository uses a Machine Learning program to detect spam utilizing Naive Bayes.
 
 **Contributing**
 

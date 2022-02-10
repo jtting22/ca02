@@ -21,4 +21,4 @@ This repository uses a Machine Learning program to detect spam utilizing Naive B
 
 **Contributing**
 
-ANy revfisions and updates are welcomed and remember to use updated python commands when necessary
+Any revisions and/or updates are welcome and remember to use updated python commands when necessary
